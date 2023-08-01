@@ -1,0 +1,191 @@
+
+.tub{
+    display: flex;
+    justify-content: space-around;
+}
+
+.but{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+
+.card1 {
+    width: 38%;
+    display: inline-block;
+    border-radius: 0%;
+    background-color: rgb(243, 243, 243);
+    transition: 0.4s;
+    margin-left: 30px;
+    margin-right: 30px;
+    border: 0px solid;
+}
+
+.photo1 {
+    width: 420px;
+    height: 280px;
+    top: 182px;
+    left: 148px;
+}
+
+.h1 {
+    width: 408px;
+height: 40px;
+top: 572px;
+left: 148px;
+}
+
+.p {
+    width: 420px;
+height: 76px;
+top: 652px;
+left: 148px;
+}
+
+.card2 {
+    width: 38%;
+    display: inline-block;
+    border-radius: 0%;
+    background-color: rgb(243, 243, 243);
+    transition: 0.4s;
+    margin-left: 30px;
+    margin-right: 30px;
+    border: 0px solid; 
+}
+
+.photo2 {
+    width: 420px;
+height: 280px;
+top: 182px;
+left: 633px;
+}
+
+.h2 {
+    width: 379px;
+height: 40px;
+top: 572px;
+left: 633px;
+}
+
+.card3 {
+width: 38%;
+    display: inline-block;
+    border-radius: 0%;
+    background-color: rgb(243, 243, 243);
+    transition: 0.4s;
+    margin-left: 30px;
+    margin-right: 30px;
+    border: 0px solid;
+}
+
+.photo3 {
+    width: 420px;
+    height: 280px;
+    top: 858px;
+    left: 147px;
+    
+}
+
+.h3 {
+    width: 225px;
+    height: 40px;
+    top: 1218px;
+    left: 148px;
+    
+}
+.card4 {
+width: 38%;
+    display: inline-block;
+    border-radius: 0%;
+    background-color: rgb(243, 243, 243);
+    transition: 0.4s;
+    margin-left: 30px;
+    margin-right: 30px;
+    border: 0px solid;
+}
+
+.photo4 {
+    width: 420px;
+height: 280px;
+top: 858px;
+left: 633px;
+
+}
+
+.h4 {
+    width: 324px;
+    height: 40px;
+    top: 1218px;
+    left: 633px;
+    
+}
+
+.card5 {
+width: 38%;
+    display: inline-block;
+    border-radius: 0%;
+    background-color: rgb(243, 243, 243);
+    transition: 0.4s;
+    margin-left: 30px;
+    margin-right: 30px;
+    border: 0px solid;
+}
+
+.photo5 {
+    width: 420px;
+    height: 280px;
+    top: 1500px;
+    left: 149px;
+    
+}
+
+.h5 {
+    width: 321px;
+    height: 40px;
+    top: 1860px;
+    left: 149px;
+    
+}
+
+.card6 {
+width: 38%;
+    display: inline-block;
+    border-radius: 0%;
+    background-color: rgb(243, 243, 243);
+    transition: 0.4s;
+    margin-left: 30px;
+    margin-right: 30px;
+    border: 0px solid;
+}
+
+.photo6 {
+    width: 419px;
+    height: 280px;
+    top: 1504px;
+    left: 633px;
+    
+}
+
+.h6 {
+    width: 226px;
+    height: 40px;
+    top: 1864px;
+    left: 632px;
+    
+}
+
+.button {
+    padding: 0px;
+    display: flex;
+}
+
+.ton{
+    background-color: white;
+    padding: 10px 10px;
+    border: groove 3px red;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-bottom: 15px;
+}
